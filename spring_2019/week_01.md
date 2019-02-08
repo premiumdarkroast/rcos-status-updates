@@ -2,22 +2,21 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+>I familiarized myself with the basics of Express. Made a couple beginner websites just so that I was work with javascript for the first time. I started taking a look a the code that was already written for the project and began to understand what it is trying to do.
+
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> After my accomplishments from last week, Colin and I realized that there might be some design plans that we need to rethink when it comes efficiency. But before that we need to get our frontend to work as we want. So I'm assisting Colin fix some of the code that was worked on last semester.
+
 
 ## Anything Blocking?
 
 > In this section, you can write about any blockers that you are having trouble in the project.
 
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+>We need to rethink our design plans so that users can open up webpages with stats faster instead of having to wait a few minutes for our program to crunch the numbers.
 
 ## Notes
 
